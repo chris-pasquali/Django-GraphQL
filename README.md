@@ -11,7 +11,7 @@ Install Pipenv:
  
  Install all dependencies:
    ```
-   pipenv install requirements.tx
+   pip install -r requirements.tx
    ```
  
  Start Server:
